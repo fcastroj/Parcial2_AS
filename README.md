@@ -67,3 +67,13 @@ El proyecto está organizado siguiendo una **arquitectura por capas**, inspirada
    ```bash
    pytest -v
 
+
+### Evidencias
+1. ***API Corriendo en Swagger**
+![Imagen de WhatsApp 2025-10-29 a las 08 25 26_0a527332](https://github.com/user-attachments/assets/96591a47-8100-4262-80ff-67001ed2bc7f)
+
+
+
+3. **Docker Imagen & Container corriendo API**
+
+
